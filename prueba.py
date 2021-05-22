@@ -1,2 +1,1 @@
-a="hola mundo"
-print (a)
+print ("Hola Miguel")
